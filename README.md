@@ -7,7 +7,14 @@ This project focuses on the application of Next-Generation Sequencing (NGS) to i
 
 Link: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE252710
 
-How is it done?
+## View Analysis Notebook
+
+GitHub's renderer may not display all visualizations.  For the best viewing experience: 
+
+**[View the full notebook with all visualizations on nbviewer](https://nbviewer.org/github/jkp100/ACS_Drug_Discovery_Transcriptomics/blob/main/notebooks/Acute%20Coronary%20Syndrome%20Drug%20Discovery%20Analysis.ipynb)**
+
+
+## How is it done?
 
 Expression profiling by high throughput sequencing
 
@@ -31,7 +38,7 @@ Peripheral Blood Mononuclear Cells (PBMC) – type of blood cell that includes l
 
 Blood samples were taken from all groups, and PBMCs were isolated. The total RNA was extracted from the samples and checked for quality. 1 microgram of RNA, mRNA was removed using a RiboZero Magnetic Gold Kit, and The KAPA Stranded RNA-Seq Library Prep Kit was used to prepare for seqencing as stated in the study.
 
-Why was it done?
+## Why was it done?
 
 -Study of the gene expression patters in blood cells from people with different heart conditions.
 
