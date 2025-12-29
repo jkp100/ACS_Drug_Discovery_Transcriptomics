@@ -11,6 +11,10 @@ Link: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE252710
 
 GitHub's renderer may not display all visualizations.  For the best viewing experience: 
 
+ **[View the full interactive analysis with all visualizations in html](https://jkp100.github.io/ACS_Drug_Discovery_Transcriptomics/)**
+
+ or
+
 **[View the full notebook with all visualizations on nbviewer](https://nbviewer.org/github/jkp100/ACS_Drug_Discovery_Transcriptomics/blob/main/notebooks/Acute%20Coronary%20Syndrome%20Drug%20Discovery%20Analysis.ipynb)**
 
 
